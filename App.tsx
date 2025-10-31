@@ -11,7 +11,7 @@ const getEmotionFromCorruption = (corruption: number): DrAlgoritmoEmotion => {
     if (corruption < 8) return DrAlgoritmoEmotion.Annoyed;
     return DrAlgoritmoEmotion.Corrupt;
 };
-
+////DJHJXDICHX
 const determineEnding = (corruption: number): EndingType => {
     if (corruption <= 3) {
         return EndingType.Ethical;
