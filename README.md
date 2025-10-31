@@ -20,3 +20,4 @@ View your app in AI Studio: https://ai.studio/apps/drive/1m4kJ9sg8So9eZWEPzBHX_X
    `npm run dev`
 # ConcientizadorIAapp
 # ConcientizadorIAapp
+# ConcientizadorIAapp
